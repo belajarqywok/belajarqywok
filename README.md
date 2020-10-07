@@ -20,7 +20,7 @@
   - zcash (zec) : t1aCSErRE5wHz1cbgHGUiiPYXrU4GFRxj23
   - verus (vrsc) : RRc2K2tNiSJxUyuyp1eig6mpN5Kn4McY8k
 - ⚡ Fun fact:
-  - united we are firm, divorced we marry again 😄
+  - united we are firm, divorced we marry again 😄<br>
 ##projek gagal
 <a href="https://github.com/belajarqywok/Qverus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
