@@ -27,10 +27,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=delta">
 </a>
 <a href="https://github.com/belajarqywok/Qverus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=botkopit">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
 </a>
 <a href="https://github.com/belajarqywok/aplikasi_beta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=aplikasi_beta">
 </a>
 <a href="https://github.com/belajarqywok/botkopit">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=botkopit">
