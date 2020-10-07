@@ -1,6 +1,6 @@
 ### Hi there, qywok 👋
 
-- I went to school at PGRI 1 in Jakarta ( multimedia )
+- I studied at SMK PGRI 1 Jakarta ( multimedia )
 - 🌱 I’m currently learning
   - python3
   - actionscript 2.0/3.0
