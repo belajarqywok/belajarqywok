@@ -22,7 +22,7 @@
 - ⚡ Fun fact:
   - united we are firm, divorced we marry again 😄
   <hr>
-**projek gagal
+**projek gagal<br>
 <a href="https://github.com/belajarqywok/Qverus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
 </a>
