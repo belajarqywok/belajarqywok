@@ -16,7 +16,7 @@
   - ig : @qywok_exploiter_237
   - twitter : @FariqyAl
   - linkedin : Al-fariqy Raihan
-  - email : 
+  - email :<br> 
            - belajarkoding.js@gmail.com<br>
            - alfariqyraihan@yahoo.com<br>
            - 38mm2.al.fariqyraihanazhwar@smkpgri1jkt.sch.id<br>
