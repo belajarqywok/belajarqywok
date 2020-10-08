@@ -13,8 +13,13 @@
 - 👯 I’m looking to collaborate on mbah gugel
 - 💬 Ask me about 
 - 📫 How to reach me:
-  - email : alfariqyraihan@gmail.com
   - ig : @qywok_exploiter_237
+  - twitter : @FariqyAl
+  - linkedin : Al-fariqy Raihan
+  - email : 
+           - belajarkoding.js@gmail.com
+           - alfariqyraihan@yahoo.com
+           - 38mm2.al.fariqyraihanazhwar@smkpgri1jkt.sch.id
 - donations, because the admin is poor 😄
   - bitcoin (btc) : 1HKqEX167cWPQyYnLqfbaaScbosBR8hTZ6
   - zcash (zec) : t1aCSErRE5wHz1cbgHGUiiPYXrU4GFRxj23
