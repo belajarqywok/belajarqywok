@@ -3,13 +3,17 @@
 - I'm studied at SMPN 275 jakarta
 - 🌱 I’m currently learning
   - python3
-  - actionscript 2.0/3.0
   - php
-  - js
-  - matlab
-  - c,c++
+  - js/ts
+  - golang
   - UI/UX
-  - graphic design and video editing
+  - photography
+  - graphic design 
+  - video editing
+- I'm hobby is
+  - jogging
+  - reading
+  - gardening
 - 👯 I’m looking to collaborate on mbah gugel
 - 💬 Ask me about 
 - 📫 How to reach me:
