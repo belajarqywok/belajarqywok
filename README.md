@@ -1,7 +1,6 @@
 ### Hi there, qywok 👋
 - I'm studied at SMPN 275 jakarta
-- I'm <p id="year"></p>years old
-<script>const me=2003;var date=new Date();document.getElementById("year").innerHTML = date.getFullYear()-me</script>
+- I'm (2^3)+(√64-1) years old
 - 🌱 I’m currently learning
   - python3
   - php
