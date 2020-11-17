@@ -1,5 +1,5 @@
 ### Hi there, qywok 👋
-
+![p]
 - I'm studied at SMPN 275 jakarta
 - 🌱 I’m currently learning
   - python3
