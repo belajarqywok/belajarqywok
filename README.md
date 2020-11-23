@@ -14,6 +14,9 @@
   - jogging
   - reading
   - gardening
+- future goals : 
+  - want to become special forces (paskhas AU)
+  - want to be a DevOps & backend engineer
 - 👯 I’m looking to collaborate on mbah gugel
 - 💬 Ask me about 
 - 📫 How to reach me:
@@ -30,7 +33,7 @@
   - verus (vrsc)  : RRc2K2tNiSJxUyuyp1eig6mpN5Kn4McY8k
   - doge          : DABUzBCyU5m9YQ3YBwZwciqKreZh8XAkeC
 - ⚡ Fun fact:
-  - united we are firm, divorced we marry again 😄
+  - aksara = script, jawa = java, aksara jawa = javascript 😄
   <hr>
 ### projek gagal<br>
 <a href="https://github.com/belajarqywok/delta">
