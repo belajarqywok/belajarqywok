@@ -11,8 +11,8 @@
   - graphic design 
   - video editing
 - I'm hobby is
-  - jogging
-  - reading
+  - jogging ( record 30km [ penjarigan - cilincing ] )
+  - reading ( computer science, indonesian & world history, politics & philosophy )
   - gardening
 - future goals : 
   - want to become special forces (paskhas AU)
