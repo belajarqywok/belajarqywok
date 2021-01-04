@@ -35,7 +35,7 @@
 - ⚡ Fun fact:
   - aksara = script, jawa = java, aksara jawa = javascript 😄
   <hr>
-### projek gagal<br>
+###<br>
 <a href="https://github.com/belajarqywok/delta">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=delta">
 </a>
