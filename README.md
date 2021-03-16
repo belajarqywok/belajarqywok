@@ -1,15 +1,11 @@
 ### Hi there, qywok 👋
-- I'm studied at SMPN 275 jakarta
+- I'm studied at SMPN 275 jakarta ( junior high school )
 - I'm (2^3)+(√64-1) years old
 - 🌱 I’m currently learning
-  - python3
-  - php
-  - js/ts
-  - golang
-  - UI/UX
-  - photography
-  - graphic design 
-  - video editing
+  - devops
+  - backend
+  - cryptanalyst
+  - multimedia ( photography, videography, graphic design, animation )
 - I'm hobby is
   - jogging ( record 30km [ penjarigan - cilincing ] )
   - reading ( computer science, indonesian & world history, politics & philosophy )
