@@ -19,15 +19,6 @@
   - ig : @qywok_exploiter_237
   - twitter : @FariqyAl
   - linkedin : Al-fariqy Raihan
-  - email :<br> 
-           - belajarkoding.js@gmail.com<br>
-           - alfariqyraihan@yahoo.com<br>
-           - 38mm2.al.fariqyraihanazhwar@smkpgri1jkt.sch.id<br>
-- donations, because the admin is poor 😄
-  - bitcoin (btc) : 1HKqEX167cWPQyYnLqfbaaScbosBR8hTZ6
-  - zcash (zec)   : t1aCSErRE5wHz1cbgHGUiiPYXrU4GFRxj23
-  - verus (vrsc)  : RRc2K2tNiSJxUyuyp1eig6mpN5Kn4McY8k
-  - doge          : DABUzBCyU5m9YQ3YBwZwciqKreZh8XAkeC
 - ⚡ Fun fact:
   - aksara = script, jawa = java, aksara jawa = javascript 😄
   <hr>
