@@ -29,9 +29,12 @@
 <a href="https://github.com/belajarqywok/Qverus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
 </a>
-<a href="https://github.com/belajarqywok/aplikasi_beta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=aplikasi_beta">
+<a href="https://github.com/qnetics/vatometh">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnetics&repo=vatometh">
 </a>
-<a href="https://github.com/belajarqywok/botkopit">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=botkopit">
+<a href="https://github.com/belajarqywok/S-DES_algorithm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=S-DES_algorithm">
+</a>
+<a href="https://github.com/belajarqywok/ToShPak-scrape">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape">
 </a>
