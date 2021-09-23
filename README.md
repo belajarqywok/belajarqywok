@@ -1,4 +1,5 @@
 ### Hi there, qywok 👋
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=belajarqywok&repo=belajarqywok&countColorcountColor)
 - I'm studied at SMPN 275 jakarta ( junior high school )
 - I'm (2^3)+(√64-1) years old
 - 🌱 I’m currently learning
