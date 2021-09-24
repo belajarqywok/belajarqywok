@@ -39,3 +39,5 @@
 <a href="https://github.com/belajarqywok/ToShPak-scrape">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape">
 </a>
+<br>
+![](https://github-profile-trophy.vercel.app/?username=hansputera&theme=dracula)
