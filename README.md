@@ -35,19 +35,19 @@
   <hr>
 ###<br>
 <a href="https://github.com/belajarqywok/delta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=delta">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=delta&theme=dark">
 </a>
 <a href="https://github.com/belajarqywok/Qverus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus&theme=dark">
 </a>
 <a href="https://github.com/qnetics/vatometh">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnetics&repo=vatometh">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnetics&repo=vatometh&theme=dark">
 </a>
 <a href="https://github.com/belajarqywok/S-DES_algorithm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=S-DES_algorithm">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=S-DES_algorithm&theme=dark">
 </a>
 <a href="https://github.com/belajarqywok/ToShPak-scrape">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape&theme=dark">
 </a>
 <br>
 
