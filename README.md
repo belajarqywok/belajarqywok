@@ -1,4 +1,4 @@
-![](https://cardivo.vercel.app/api?name=alfariqywok%20%F0%9F%91%8B&description=%E2%98%81%EF%B8%8F%20engineer&image=https://avatars.githubusercontent.com/u/59132829&backgroundColor=%23000000&github=belajarqywok&pattern=topography&colorPattern=%23FFFFFF&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+![](https://cardivo.vercel.app/api?name=alfariqywok%20%F0%9F%91%8B&description=%E2%98%81%EF%B8%8F%20engineer&image=https://avatars.githubusercontent.com/u/59132829&backgroundColor=%23000000&github=belajarqywok&pattern=topography&colorPattern=%23a8a8a8&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=belajarqywok&repo=belajarqywok&countColorcountColor)
 
