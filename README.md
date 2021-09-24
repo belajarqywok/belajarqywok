@@ -40,4 +40,4 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape">
 </a>
 <br>
-![](https://github-profile-trophy.vercel.app/?username=hansputera&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=belajarqywok&theme=dracula)
