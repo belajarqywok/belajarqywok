@@ -11,23 +11,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belajarqywok&show_icons=true&locale=en&theme=dark" alt="belajarqywok" /></p>
 
 
-- I'm studied at SMPN 275 jakarta ( junior high school )
-- I'm (2^3)+(√64-1) years old
-- 🌱 I’m currently learning
-  - devops
-  - backend
-  - cryptanalyst
-  - multimedia ( photography, videography, graphic design, animation )
-- I'm hobby is
-  - jogging ( record 30km [ penjarigan - cilincing ] )
-  - reading ( computer science, indonesian & world history, politics & philosophy )
-  - gardening
-- future goals : 
-  - want to become special forces (paskhas AU)
-  - want to be a DevOps & backend engineer
-- 👯 I’m looking to collaborate on mbah gugel
-- 💬 Ask me about 
-- 📫 How to reach me:
+- Ich habe an der SMPN 275 Jakarta (Junior High School) studiert.
+- Ich bin (2^3)+(√64-1) Jahre alt
+- 🌱 ich lerne gerade
+  - Devops
+  - Backend
+  - Kryptoanalytiker
+  - Multimedia (Fotografie, Videografie, Grafikdesign, Animation)
+- ich bin hobby ist :
+  - Joggen ( Rekord 30km [ penjarigan - cilincing ] )
+  - Lesen ( Informatik, Indonesische & Weltgeschichte, Politik & Philosophie )
+  - Gartenarbeit
+- zukünftige Ziele : 
+  - Spezialeinheit werden wollen (paskhas AU)
+  - möchte DevOps- und Backend-Ingenieur werden
+- 👯 Ich suche eine Mitarbeit bei mbah gugel
+- 💬 Frag mich etwas über
+- 📫 So erreichen Sie mich :
   - ig : @qywok_exploiter_237
   - twitter : @FariqyAl
   - linkedin : Al-fariqy Raihan
