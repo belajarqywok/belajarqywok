@@ -5,7 +5,7 @@
 <br>
   <h2 align="left">Technologies</h2>
   
-  > Programming languages.
+  > Programming languages
 
   <p>
     <img alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
@@ -14,18 +14,45 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
   </p>
-  > Frameworks & Libraries.
+  
+  > Frameworks & Libraries
+ 
   <p>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black">
     <img alt="Django" src="https://img.shields.io/badge/Django-43853D.svg?logo=django&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
     <img alt="Express" src="https://img.shields.io/badge/Express-ffffff.svg?logo=express&logoColor=black">
   </p>
+  
   > Databases
+  
   <p>
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00f.svg?logo=mariadb&logoColor=white">
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  </p>
+  
+  > Tools, Softwares, And Others
+  
+  <p>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Docker" src ="https://img.shields.io/badge/Docker-0275b3.svg?logo=docker&logoColor=white">
+    <img alt="Kubernetes" src ="https://img.shields.io/badge/K8S-0255b3.svg?logo=kubernetes&logoColor=white">
+    <img alt="Ansible" src="https://img.shields.io/badge/Ansible-white.svg?logo=ansible&logoColor=black">
+    <img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-white.svg?logo=openstack&logoColor=red">
+    <img alt="NPM" src ="https://img.shields.io/badge/NPM-white.svg?logo=npm&logoColor=white">
+    <img alt="Adobe_Illustrator" src ="https://img.shields.io/badge/Adobe%20Illustrator-grey.svg?logo=adobeillustrator&logoColor=yellow">
+    <img alt="Adobe_Premiere_Pro" src ="https://img.shields.io/badge/Adobe%20Premiere%20Pro-white.svg?logo=adobepremierepro&logoColor=purple">
+  </p>
+  
+  > Operating Systems
+  
+  <p>
+    <img alt="Redhat" src="https://img.shields.io/badge/RedHat-c90202.svg?logo=redhat&logoColor=white">
+    <img alt="Ubuntu" src ="https://img.shields.io/badge/Ubuntu-orange.svg?logo=ubuntu&logoColor=white">
+    <img alt="Debian" src ="https://img.shields.io/badge/Debian-d11f37.svg?logo=debian&logoColor=white">
+    <img alt="FreeBSD" src ="https://img.shields.io/badge/FreeBSD-gray.svg?logo=freebsd&logoColor=red">
+    <img alt="Windows" src ="https://img.shields.io/badge/Windows-1f5ad1.svg?logo=windows&logoColor=white">
   </p>
 <hr>
 
