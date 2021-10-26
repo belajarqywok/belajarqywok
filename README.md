@@ -4,7 +4,7 @@
 
 <br>
   <h2 align="left">Technologies</h2>
-> Languages
+> Languages.
   <p>
     <img alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
@@ -12,7 +12,7 @@
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
   </p>
-  > Frameworks & Libraries
+  > Frameworks & Libraries.
   <p>
     <img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black">
     <img alt="Django" src="https://img.shields.io/badge/Django-43853D.svg?logo=django&logoColor=white">
