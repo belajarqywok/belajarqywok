@@ -4,7 +4,7 @@
 
 <br>
   <h2 align="left">Technologies</h2>
-  > Languages
+> Languages
   <p>
     <img alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
     <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
