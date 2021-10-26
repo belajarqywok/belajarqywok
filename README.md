@@ -13,6 +13,13 @@
     <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
     <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
+    <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+    <img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
+    
   </p>
   
   > Frameworks & Libraries
@@ -35,14 +42,16 @@
   > Tools, Softwares, And Others
   
   <p>
+    <img alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-lightblue.svg?logo=virtualbox&logoColor=white">
     <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-0275b3.svg?logo=docker&logoColor=white">
+    <img alt="Kafka" src ="https://img.shields.io/badge/Kafka-black.svg?logo=apachekafka&logoColor=white">
     <img alt="Kubernetes" src ="https://img.shields.io/badge/K8S-0255b3.svg?logo=kubernetes&logoColor=white">
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-white.svg?logo=ansible&logoColor=black">
-    <img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-white.svg?logo=openstack&logoColor=red">
     <img alt="NPM" src ="https://img.shields.io/badge/NPM-white.svg?logo=npm&logoColor=white">
     <img alt="Adobe_Illustrator" src ="https://img.shields.io/badge/Adobe%20Illustrator-grey.svg?logo=adobeillustrator&logoColor=yellow">
     <img alt="Adobe_Premiere_Pro" src ="https://img.shields.io/badge/Adobe%20Premiere%20Pro-white.svg?logo=adobepremierepro&logoColor=purple">
+    <img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white">
   </p>
   
   > Operating Systems
@@ -53,6 +62,23 @@
     <img alt="Debian" src ="https://img.shields.io/badge/Debian-d11f37.svg?logo=debian&logoColor=white">
     <img alt="FreeBSD" src ="https://img.shields.io/badge/FreeBSD-gray.svg?logo=freebsd&logoColor=red">
     <img alt="Windows" src ="https://img.shields.io/badge/Windows-1f5ad1.svg?logo=windows&logoColor=white">
+  </p>
+  
+  > Cloud Computing
+  
+  <p>
+    <img alt="OpenStack" src ="https://img.shields.io/badge/OpenStack-white.svg?logo=openstack&logoColor=red">
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+    <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+    <img alt="AWS" src ="https://img.shields.io/badge/AWS-black.svg?logo=amazon&logoColor=yellow">
+    <img alt="GCP" src ="https://img.shields.io/badge/GCP-blue.svg?logo=googlecloud&logoColor=white">
+  </p>
+  
+  > Web And Proxy Servers
+  
+  <p>
+    <img alt="Nginx" src ="https://img.shields.io/badge/Nginx-black.svg?logo=nginx&logoColor=green">
+    <img alt="Apache" src="https://img.shields.io/badge/Apache-white.svg?logo=apache&logoColor=red">
   </p>
 <hr>
 
