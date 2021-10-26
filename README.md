@@ -2,6 +2,29 @@
 
 ![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=belajarqywok&repo=belajarqywok&countColorcountColor)
 
+<br>
+  <h2 align="left">Technologies</h2>
+  > Languages
+  <p>
+    <img alt="python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
+    <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+    <img alt="Golang" src="https://img.shields.io/badge/Golang-03c2fc.svg?logo=go&logoColor=white">
+  </p>
+  > Frameworks & Libraries
+  <p>
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-white.svg?logo=flask&logoColor=black">
+    <img alt="Django" src="https://img.shields.io/badge/Django-43853D.svg?logo=django&logoColor=white">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
+    <img alt="Express" src="https://img.shields.io/badge/Express-ffffff.svg?logo=express&logoColor=black">
+  </p>
+  > Databases
+  <p>
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00f.svg?logo=mariadb&logoColor=white">
+    <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+  </p>
 <hr>
 
 ![](https://github-profile-trophy.vercel.app/?username=belajarqywok&theme=dracula)
