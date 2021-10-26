@@ -47,6 +47,7 @@
     <img alt="Docker" src ="https://img.shields.io/badge/Docker-0275b3.svg?logo=docker&logoColor=white">
     <img alt="Kafka" src ="https://img.shields.io/badge/Kafka-black.svg?logo=apachekafka&logoColor=white">
     <img alt="Kubernetes" src ="https://img.shields.io/badge/K8S-0255b3.svg?logo=kubernetes&logoColor=white">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-purple.svg?logo=terraform&logoColor=white">
     <img alt="Ansible" src="https://img.shields.io/badge/Ansible-white.svg?logo=ansible&logoColor=black">
     <img alt="NPM" src ="https://img.shields.io/badge/NPM-white.svg?logo=npm&logoColor=white">
     <img alt="Adobe_Illustrator" src ="https://img.shields.io/badge/Adobe%20Illustrator-grey.svg?logo=adobeillustrator&logoColor=yellow">
