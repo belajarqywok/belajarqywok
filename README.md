@@ -19,7 +19,6 @@
     <img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
-    
   </p>
   
   > Frameworks & Libraries
@@ -29,6 +28,9 @@
     <img alt="Django" src="https://img.shields.io/badge/Django-43853D.svg?logo=django&logoColor=white">
     <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-ffffff.svg?logo=fastapi&logoColor=02b3aa">
     <img alt="Express" src="https://img.shields.io/badge/Express-ffffff.svg?logo=express&logoColor=black">
+    <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-1c3a4d.svg?logo=springboot&logoColor=green">
+    <img alt="Spring" src="https://img.shields.io/badge/Spring-3c3f8c.svg?logo=spring&logoColor=green">
+    <img alt="Spring" src="https://img.shields.io/badge/Codeigniter-white.svg?logo=codeigniter&logoColor=red">
   </p>
   
   > Databases
@@ -37,6 +39,7 @@
     <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00f.svg?logo=mariadb&logoColor=white">
     <img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white">
     <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+    <img alt="Redis" src ="https://img.shields.io/badge/Redis-white.svg?logo=redis&logoColor=red">
   </p>
   
   > Tools, Softwares, And Others
