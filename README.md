@@ -91,46 +91,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belajarqywok&show_icons=true&locale=en&layout=compact&theme=dark" alt="belajarqywok" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=belajarqywok&show_icons=true&locale=en&theme=dark" alt="belajarqywok" /></p>
-
-
-- Ich habe an der SMPN 275 Jakarta (Junior High School) studiert.
-- Ich bin (2^3)+(√64-1) Jahre alt
-- 🌱 ich lerne gerade
-  - Devops
-  - Backend
-  - Kryptoanalytiker
-  - Multimedia (Fotografie, Videografie, Grafikdesign, Animation)
-- ich bin hobby ist :
-  - Joggen ( Rekord 30km [ penjarigan - cilincing ] )
-  - Lesen ( Informatik, Indonesische & Weltgeschichte, Politik & Philosophie )
-  - Gartenarbeit
-- zukünftige Ziele : 
-  - Spezialeinheit werden wollen (paskhas AU)
-  - möchte DevOps- und Backend-Ingenieur werden
-- 👯 Ich suche eine Mitarbeit bei mbah gugel
-- 💬 Frag mich etwas über
-- 📫 So erreichen Sie mich :
-  - ig : @qywok_exploiter_237
-  - twitter : @FariqyAl
-  - linkedin : Al-fariqy Raihan
-- ⚡ Fun fact:
-  - aksara = script, jawa = java, aksara jawa = javascript 😄
-  <hr>
-<br>
-<a href="https://github.com/belajarqywok/delta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=delta&theme=dark">
-</a>
-<a href="https://github.com/belajarqywok/Qverus">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=Qverus&theme=dark">
-</a>
-<a href="https://github.com/qnetics/vatometh">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=qnetics&repo=vatometh&theme=dark">
-</a>
-<a href="https://github.com/belajarqywok/S-DES_algorithm">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=S-DES_algorithm&theme=dark">
-</a>
-<a href="https://github.com/belajarqywok/ToShPak-scrape">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=belajarqywok&repo=ToShPak-scrape&theme=dark">
-</a>
 <br>
 
